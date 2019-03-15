@@ -6,12 +6,12 @@ body {
 }
   
 h1 {
-  color: red;
+  color: #ffffff;
   font-family: Sans-serif;
 }
 
 h4 {
-color: blue;
+color: #66ff66;
 font-family: Sans-serif;
 }
 
@@ -27,7 +27,3 @@ font-family: Sans-serif;
   font-family: Sans-serif;
 }
 
-code {
-font-size: 24px;
-font-family: Sans-serif;
-}
